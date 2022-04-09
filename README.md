@@ -20,7 +20,7 @@
     <img src="https://github.com/VanAntonietti/VanAntonietti/raw/main/img/gnl-star.png" alt="GNL 125/100">
   </a>
   <br>
-  125/100
+  125/125
 </p>
 
 ---
