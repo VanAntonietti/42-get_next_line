@@ -27,7 +27,7 @@
 
 # 🚀 What is get_next_line?
 
-This is the second project in the 42 Cadet Curriculum. The aim of this project is to make you code a function that returns a line, read from a file descriptor. Overall, it is an easy project once you comprehend what is being asked from you. It gets complicated by the fact that you are only allowed to use the following functions: read, malloc and free.
+This is the second project in the 42 Cadet Curriculum. The aim of this project is to make your code a function that returns a line, read from a file descriptor. Overall, it is an easy project once you comprehend what is being asked from you. It gets complicated by the fact that you are only allowed to use the following functions: read, malloc and free.
 
 ### Prototype
 `char *get_next_line(int fd);`
